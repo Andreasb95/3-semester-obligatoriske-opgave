@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6fAvC4pwpTow/rjEHWubBZRL4CuE9Hcm1jp2o5gyzX44Q0aJ0WykzmoGLwXu7Kx2zHlpAqXwc0eY18ieogGHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Datamatiker\\Projektor\\Opgave6\\Opgave6\\Opgave6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

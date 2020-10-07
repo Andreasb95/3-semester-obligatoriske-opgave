@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestConsole/1.0.0": {
+        "dependencies": {
+          "FanLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TestConsole.dll": {}
+        }
+      },
+      "FanLibrary/1.0.0": {
+        "runtime": {
+          "FanLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FanLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

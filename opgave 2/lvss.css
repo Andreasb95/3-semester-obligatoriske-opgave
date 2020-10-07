@@ -1,0 +1,83 @@
+#body{
+    background-color: lightslategrey;
+}
+
+#oversigt{
+    text-align: center;
+    background-color: #d3e0d7;
+}
+
+#bottomlinks{
+   /* text-align: center;
+    bottom: 10;
+    background-color: lightcoral;
+    bottom: 5px;
+    position: sticky;
+    border: 3px solid #8AC007; 
+    osition: absolute; */
+
+    text-align: center;
+    background-color: #d8e3db;
+
+}
+
+
+#welcome{
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    background-color: lig;
+}
+
+main{
+    min-height: calc(100vh - 142px - 122px);
+}
+
+#sem{
+    padding-top: 10px;
+    padding: 10px;
+   /* border: 5px solid;
+    border-color: black; */
+    min-height: 300px;
+}
+
+#box1 {
+    padding-top: 10px;
+    padding: 10px;
+    
+    border-color: black; 
+    min-height: 300px;
+    background-color: lightblue;
+    border: 2px;
+    border-radius: 5px;
+
+}
+
+#box2 {
+    padding-top: 10px;
+    padding: 10px;
+    
+    border-color: black; 
+    min-height: 300px;
+    background-color: orange;
+    border: 2px;
+    border-radius: 5px;
+
+}
+
+#box3 {
+    padding-top: 10px;
+    padding: 10px;
+    
+    border-color: black; 
+    min-height: 300px;
+    background-color: lightblue;
+    border: 2px;
+    border-radius: 5px;
+
+}
+

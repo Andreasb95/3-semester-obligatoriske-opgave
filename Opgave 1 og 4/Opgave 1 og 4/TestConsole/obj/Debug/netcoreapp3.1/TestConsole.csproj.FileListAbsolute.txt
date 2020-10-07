@@ -1,0 +1,32 @@
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.exe
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.deps.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.exe
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.deps.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.genruntimeconfig.cache

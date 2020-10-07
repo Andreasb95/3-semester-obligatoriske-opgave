@@ -1,0 +1,18 @@
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.deps.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.deps.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\FanLibrary\obj\Debug\netcoreapp3.1\FanLibrary.pdb

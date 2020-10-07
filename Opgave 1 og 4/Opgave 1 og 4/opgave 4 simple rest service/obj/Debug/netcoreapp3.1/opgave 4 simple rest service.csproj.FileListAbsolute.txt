@@ -1,0 +1,46 @@
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.exe
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.deps.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.runtimeconfig.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\staticwebassets\opgave 4 simple rest service.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\staticwebassets\opgave 4 simple rest service.StaticWebAssets.xml
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.exe
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.deps.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.runtimeconfig.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\opgave 4 simple rest service.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\FanLibrary.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\bin\Debug\netcoreapp3.1\FanLibrary.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\staticwebassets\opgave 4 simple rest service.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\staticwebassets\opgave 4 simple rest service.StaticWebAssets.xml
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.dll
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.pdb
+C:\Users\Admin\OneDrive\Datamatiker\Projektor\Opgave6\Mandatory-Assignment\Opgave 1\FanLibrary\opgave 4 simple rest service\obj\Debug\netcoreapp3.1\opgave 4 simple rest service.genruntimeconfig.cache
